@@ -24,6 +24,11 @@ parallel systems in C/CUDA, and full-stack apps in Next.js and TypeScript.
 
 **Full-stack & frontend**
 
+- 🍽️ **[OrderReady](https://github.com/EvangelosMoschou/orderready-showcase)** —
+  multi-tenant QR ordering + live kitchen dashboard for restaurants (Java 21 / Spring Boot,
+  PostgreSQL, Docker): signed table-session tokens, server-side price authority, Greek VAT
+  engine and a transactional outbox to thermal printers. Technical showcase, **source
+  available on request**.
 - 🏋️ **[NexusFit](https://github.com/EvangelosMoschou/NexusFit)** —
   my own gym-platform product in Next.js 15 / React 19: marketing site, member portal,
   admin CMS and an AI workout copilot. Multi-tenant over SQLite with offline/PWA mode, rate
