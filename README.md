@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Evangelos Moschou — CS student, AI agents, parallel systems, full-stack" src="assets/banner-dark.svg" width="100%">
+  <img alt="Evangelos Moschou — ECE student, AI agents, C/CUDA, Next.js" src="assets/banner-dark.svg" width="100%">
 </picture>
 
-CS student at Aristotle University of Thessaloniki. I build AI agent tooling,
-parallel systems, and full-stack applications.
+ECE student at Aristotle University of Thessaloniki. I build AI agent tooling,
+parallel systems in C/CUDA, and full-stack apps in Next.js and TypeScript.
 
 **Live demos:** [CookBook](https://evangelosmoschou.github.io/CookBook/) ·
 [NexusFit](https://evangelosmoschou.github.io/NexusFit/)
