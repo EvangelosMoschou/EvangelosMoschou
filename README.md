@@ -18,6 +18,11 @@ I build the frontend too when the project needs a face.
 
 **Full-stack & frontend**
 
+- 🏋️ **[NexusFit](https://github.com/EvangelosMoschou/NexusFit)** —
+  white-label gym platform in Next.js 15 / React 19: marketing site, member portal, admin
+  CMS and an AI workout copilot, multi-tenant over SQLite with offline/PWA mode, rate
+  limiting and signed sessions. One config object re-brands the whole app; Docker + Caddy
+  deploy and 9 Vitest suites included. AGPL-3.0.
 - 🍳 **[CookBook](https://github.com/EvangelosMoschou/CookBook)** —
   recipe + culinary-jobs platform: React 18 / TypeScript / Vite 6 front end over an
   Express 5 + SQLite API, responsive from 375 px phones to desktop. The UI doubles as a
