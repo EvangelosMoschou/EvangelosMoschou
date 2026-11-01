@@ -7,6 +7,10 @@
 ECE student at Aristotle University of Thessaloniki. I build AI agent tooling,
 parallel systems in C/CUDA, and full-stack apps in Next.js and TypeScript.
 
+**How I work:** I work with coding agents and review/verify everything that lands —
+see [`fuzz/README.md`](https://github.com/EvangelosMoschou/bluesky-firehose-collector/blob/main/fuzz/README.md)
+for how I validate generated code against sanitizers.
+
 **Live demos:** [CookBook](https://evangelosmoschou.github.io/CookBook/) ·
 [NexusFit](https://evangelosmoschou.github.io/NexusFit/)
 
